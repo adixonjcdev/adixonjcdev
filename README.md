@@ -13,6 +13,81 @@
   <img src="https://img.shields.io/badge/POSITION-21-1f6feb?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <sub>
+    Last credit top-up: <strong>USD $100</strong> · <strong>Dec 31, 2025</strong>
+  </sub>
+</p>
+
+
+## 📈 Platform Growth Metrics (Last 3 Months)
+
+> Growth indicators based on **manual tracking and internal positioning data**,  
+> reflecting visibility and reach progression over the last 90 days.
+
+---
+
+### 🔵 Facebook
+<p>
+  <img src="https://img.shields.io/badge/Growth-+18%25-2ea44f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Trend-↑↑-1f6feb?style=for-the-badge"/>
+</p>
+
+- Increased organic reach and engagement  
+- Improved campaign positioning and content indexing  
+
+---
+
+### 🟣 Instagram
+<p>
+  <img src="https://img.shields.io/badge/Growth-+27%25-2ea44f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Trend-↑↑↑-1f6feb?style=for-the-badge"/>
+</p>
+
+- Higher profile discovery rate  
+- Growth driven by optimized content structure and hashtags  
+
+---
+
+### 🟢 WhatsApp Business
+<p>
+  <img src="https://img.shields.io/badge/Growth-+22%25-2ea44f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Trend-↑↑-1f6feb?style=for-the-badge"/>
+</p>
+
+- Increased inbound conversations  
+- Improved funnel integration with landing pages and ads  
+
+---
+
+### 🔷 LinkedIn
+<p>
+  <img src="https://img.shields.io/badge/Growth-+31%25-2ea44f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Trend-↑↑↑-1f6feb?style=for-the-badge"/>
+</p>
+
+- Strong improvement in professional visibility  
+- Increased impressions on technical and founder-oriented content  
+
+---
+
+### 🔴 Pinterest
+<p>
+  <img src="https://img.shields.io/badge/Growth-+19%25-2ea44f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Trend-↑↑-1f6feb?style=for-the-badge"/>
+</p>
+
+- Gradual indexing improvement  
+- Long-term traffic positioning growth  
+
+---
+
+### 📌 Interpretation
+
+> These metrics indicate **consistent upward positioning trends**,  
+> supporting readiness for **production launch and scaling efforts**.
+
+
 ---
 
 # 👋 Adixon Camacho
